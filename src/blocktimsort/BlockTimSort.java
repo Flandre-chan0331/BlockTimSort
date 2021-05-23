@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Comparator;
 
 /**
- * @author mingyue12
+ * @author Yuri-chan2007
  * @author Scandum
  * @author Control55
  *
